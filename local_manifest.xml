@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest> 
-<remote name="BASSTANISHK9" fetch="https://github.com"/> 
-<project name="BASSTANISHK9/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="BASSTANISHK9" revision="elle" /> 
-<project name="BASSTANISHK9/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="BASSTANISHK9" revision="lineage-18.1" /> 
-<project name="BASSTANISHK9/android_hardware_samsung" path="hardware/samsung" remote="BASSTANISHK9" revision="elle" /> 
-<project name="BASSTANISHK9/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="BASSTANISHK9" revision="lineage-18.1" /> 
-<project name="BASSTANISHK9/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="BASSTANISHK9" revision="lineage-18.1" /> 
-<project name="BASSTANISHK9/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="BASSTANISHK9" revision="lineage-18.1" /> 
-<project name="BASSTANISHK9/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="BASSTANISHK9" revision="lineage-18.1" /> 
-<project name="BASSTANISHK9/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="BASSTANISHK9" revision="lineage-18.1" /> 
-<project name="BASSTANISHK9/proprietary_vendor_samsung" path="vendor/samsung" remote="BASSTANISHK9" revision="lineage-18.1" />
+<remote name="RON1N9" fetch="https://github.com"/> 
+<project name="RON1N9/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="BASSTANISHK9" revision="elle" /> 
+<project name="RON1N9/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="BASSTANISHK9" revision="lineage-18.1" /> 
+<project name="RON1N9/android_hardware_samsung" path="hardware/samsung" remote="BASSTANISHK9" revision="elle" /> 
+<project name="RON1N9/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="BASSTANISHK9" revision="lineage-18.1" /> 
+<project name="RON1N9/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="BASSTANISHK9" revision="lineage-18.1" /> 
+<project name="RON1N9/android_hardware_samsung_slsi_exynos7580" path="hardware/samsung_slsi/exynos7580" remote="BASSTANISHK9" revision="lineage-18.1" /> 
+<project name="RON1N9/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="BASSTANISHK9" revision="lineage-18.1" /> 
+<project name="RON1N9/android_kernel_samsung_universal7580" path="kernel/samsung/universal7580" remote="BASSTANISHK9" revision="lineage-18.1" /> 
+<project name="RON1N9/proprietary_vendor_samsung" path="vendor/samsung" remote="BASSTANISHK9" revision="lineage-18.1" />
 </manifest>
