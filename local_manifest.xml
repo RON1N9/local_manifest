@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="RON1N9" fetch="https://github.com" />
+  <remote name="RON1N9" fetch="https://github.com/RON1N9" />
 
   <project name="RON1N9/android_device_samsung_j7elte" path="device/samsung/j7elte" remote="RON1N9" revision="Havoc-11" />
   <project name="RON1N9/android_device_samsung_universal7580-common" path="device/samsung/universal7580-common" remote="RON1N9" />
